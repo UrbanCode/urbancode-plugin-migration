@@ -28,9 +28,6 @@ each is independent of the other.
 
 The complete text of each of these two license agreements follow.
 
-
-
-
 International License Agreement for Evaluation of Programs
 
 Part 1 - General Terms
@@ -162,6 +159,7 @@ PROVIDED BY IBM IS SUBJECT TO THE DISCLAIMERS AND EXCLUSIONS IN THIS SECTION 5.
 6. Licensee Data and Databases
 
 To assist Licensee in isolating the cause of a problem with the Program, IBM may request that Licensee
+
 1) allow IBM to remotely access Licensee's system or 2) send Licensee information or system data
 to IBM. However, IBM is not obligated to provide such assistance unless IBM and Licensee enter a separate
 written agreement under which IBM agrees to provide to Licensee that type of support, which is beyond
@@ -211,8 +209,9 @@ c. LOST PROFITS, BUSINESS, REVENUE, GOODWILL, OR ANTICIPATED SAVINGS.
 8. Compliance Verification
 
 For purposes of this Section 8 (Compliance Verification), "Evaluation Program Terms" means
+
 1) this Agreement and applicable amendments and transaction documents provided by IBM, and 2) IBM
-software policies that may be found at the IBM Software Policy website (www.ibm.com/softwarepolicies),
+software policies that may be found at the IBM Software Policy website (<www.ibm.com/softwarepolicies>),
 including but not limited to those policies concerning backup, sub-capacity pricing, and migration.
 
 The rights and obligations set forth in this Section 8 remain in effect during the period the Program
@@ -224,6 +223,7 @@ Licensee agrees to create, retain, and provide to IBM and its auditors accurate 
 tool outputs, and other system information sufficient to provide auditable verification that Licensee's
 use of all Programs is in compliance with the Evaluation Program Terms, including, without limitation,
 all of IBM's applicable licensing and pricing qualification terms. Licensee is responsible for
+
 1) ensuring that it does not exceed its Authorized Use, and 2) remaining in compliance with Evaluation
 Program Terms.
 
@@ -273,6 +273,7 @@ has not met its obligations under this Agreement. The parties will attempt in go
 all disputes, disagreements, or claims between the parties relating to this Agreement.
 
 f. Unless otherwise required by applicable law without the possibility of contractual waiver or limitation:
+
 1) neither party will bring a legal action, regardless of form, for any claim arising out of or related
 to this Agreement more than two years after the cause of action arose; and 2) upon the expiration of
 such time limit, any such claim and all respective rights related to the claim lapse.
@@ -1012,7 +1013,7 @@ Processor Value Units ("PVUs"), or other level of use specified by IBM.
 "IBM" - International Business Machines Corporation or one of its subsidiaries.
 
 "License Information" ("LI") - a document that provides information and any additional
-terms specific to a Program. The Program's LI is available at www.ibm.com/software/sla
+terms specific to a Program. The Program's LI is available at <www.ibm.com/software/sla>
 . The LI can also be found in the Program's directory, by the use of a system command, or as a booklet
 included with the Program.
 
@@ -1156,7 +1157,7 @@ responsible for the results obtained from the use of the Program.
 
 During the Warranty Period, IBM provides Licensee with access to IBM databases containing information
 on known Program defects, defect corrections, restrictions, and bypasses at no additional charge.
-Consult the IBM Software Support Handbook for further information at www.ibm.com/software/support.
+Consult the IBM Software Support Handbook for further information at <www.ibm.com/software/support>.
 
 If the Program does not function as warranted during the Warranty Period and the problem cannot be
 resolved with information available in the IBM databases, Licensee may return the Program and its PoE
@@ -1186,6 +1187,7 @@ NOT NULLIFY IBM'S WARRANTY OBLIGATIONS UNDER THIS AGREEMENT.
 9. Licensee Data and Databases
 
 To assist Licensee in isolating the cause of a problem with the Program, IBM may request that Licensee
+
 1) allow IBM to remotely access Licensee's system or 2) send Licensee information or system data
 to IBM. However, IBM is not obligated to provide such assistance unless IBM and Licensee enter a separate
 written agreement under which IBM agrees to provide to Licensee that type of support, which is beyond
@@ -1236,7 +1238,7 @@ c. LOST PROFITS, BUSINESS, REVENUE, GOODWILL, OR ANTICIPATED SAVINGS.
 
 For purposes of this Section 11 (Compliance Verification), "IPLA Program Terms" means 1) this
 Agreement and applicable amendments and transaction documents provided by IBM, and 2) IBM software
-policies that may be found at the IBM Software Policy website (www.ibm.com/softwarepolicies),
+policies that may be found at the IBM Software Policy website (<www.ibm.com/softwarepolicies>),
 including but not limited to those policies concerning backup, sub-capacity pricing, and migration.
 
 The rights and obligations set forth in this Section 11 remain in effect during the period the Program
@@ -1302,6 +1304,7 @@ has not met its obligations under this Agreement. The parties will attempt in go
 all disputes, disagreements, or claims between the parties relating to this Agreement.
 
 g. Unless otherwise required by applicable law without the possibility of contractual waiver or limitation:
+
 1) neither party will bring a legal action, regardless of form, for any claim arising out of or related
 to this Agreement more than two years after the cause of action arose; and 2) upon the expiration
 of such time limit, any such claim and all respective rights related to the claim lapse.
@@ -2127,9 +2130,6 @@ D/N: L-PASH-98BHN9
 
 P/N: L-PASH-98BHN9
 
-
-
-
 LICENSE INFORMATION
 
 The Programs listed below are licensed under the following terms and conditions in addition to those
@@ -2193,7 +2193,7 @@ Processor Value Unit (PVU)
 
 Processor Value Unit (PVU) is a unit of measure by which the Program can be licensed. The number of
 PVU entitlements required is based on the processor technology (defined within the PVU Table by Processor
-Vendor, Brand, Type and Model Number at http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html)
+Vendor, Brand, Type and Model Number at <http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html>)
 and the number of processors made available to the Program. IBM continues to define a processor,
 for the purpose of PVU- based licensing, to be each processor core on a chip. A dual-core processor
 chip, for example, has two processor cores.
@@ -2205,7 +2205,7 @@ processor cores* in the physical hardware environment made available to or manag
 except for those servers from which the Program has been permanently removed. If using Virtualization
 Capacity licensing, Licensee must obtain entitlements sufficient to cover all activated processor
 cores made available to or managed by the Program, as defined according to the Virtualization Capacity
-License Counting Rules at http://www.ibm.com/software/lotus/passportadvantage/Counting_Software_licenses_using_specific_virtualization_technologies.html.
+License Counting Rules at <http://www.ibm.com/software/lotus/passportadvantage/Counting_Software_licenses_using_specific_virtualization_technologies.html>.
 
 * An Activated processor core is a processor core that is available for use in a physical or virtual
 server, regardless of whether the capacity of the processor core can be or is limited through virtualization
