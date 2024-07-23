@@ -1,0 +1,10 @@
+#!/bin/bash
+
+export GITHUB_TOKEN="ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+export PLUGIN_DOCS_ROOT="/mnt/PLUGINS/IBM-UCx-PLUGIN-DOCS"
+export UCD_PLUGIN_FILES_ROOT="/mnt/PLUGINS/IBM-UCD-PLUGINS"
+export UCV_PLUGIN_FILES_ROOT="/mnt/PLUGINS/IBM-UCV-PLUGINS"
+export UCR_PLUGIN_FILES_ROOT="/mnt/PLUGINS/IBM-UCR-PLUGINS"
+export UCB_PLUGIN_FILES_ROOT="/mnt/PLUGINS/IBM-UCB-PLUGINS"
+export PLUGIN_INDEX_ROOT="/mnt/PLUGINS/source/urbancode-plugins-index/src"
+export ZIP_TEMP_DIR="/mnt/PLUGINS/TEMP"
